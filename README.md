@@ -41,8 +41,8 @@ finance-tracker/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/finance-tracker.git
-cd finance-tracker
+git clone https://github.com/akakiev/finance-management-app.git
+cd finance-management-app
 ```
 
 2. **Run the application**
